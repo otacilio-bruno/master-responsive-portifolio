@@ -574,7 +574,7 @@ textarea.contact-input {
 
 .contact-icon {
   background-color: var(--glaucous);
-  font-size: 2.4rem;
+  font-size: 1.4rem;
   padding: 20px;
   border-radius: 50%;
 }
@@ -583,7 +583,7 @@ textarea.contact-input {
   color: var(--white);
   font-family: var(--ff-barlow);
   font-size: var(--fs-4);
-  font-weight: var(--fw-600);
+  font-weight: var(--fw-);
 }
 
 .contact-item-link { transition: var(--transition-1); }
